@@ -245,7 +245,8 @@ box-shadow: 0 6px 8px #77672b ;
     margin: 0 auto 40px;
     max-width: 700px;
     font-size: 17px;
-    font-family: roboto;   
+    font-family: roboto; 
+    line-height: 1.4;
 }
 
 
